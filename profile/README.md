@@ -11,8 +11,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[![Frontend Dev CI/CD](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev.yml/badge.svg)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev.yml)
-[![Frontend Prod CI/CD](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-prod.yml)
-
+## Development
 [![Backend Dev CI/CD](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-dev.yml/badge.svg)](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-dev.yml)
+[![Frontend Dev CI/CD](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev.yml/badge.svg)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev.yml)
+
+## Production
 [![Backend Prod CI/CD](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-prod.yml)
+[![Frontend Prod CI/CD](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-prod.yml)
+[![Backend Prod CI/CD](https://github.com/licitaeasy/cost-model/actions/workflows/deploy.yml/badge.svg)](https://github.com/licitaeasy/cost-model/actions/workflows/deploy.yml)
