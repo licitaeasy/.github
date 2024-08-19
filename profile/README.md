@@ -18,4 +18,3 @@
 ## Production
 [![Backend Prod CI/CD](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-prod.yml)
 [![Frontend Prod CI/CD](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-prod.yml)
-[![Backend Prod CI/CD](https://github.com/licitaeasy/cost-model/actions/workflows/deploy.yml/badge.svg)](https://github.com/licitaeasy/cost-model/actions/workflows/deploy.yml)
