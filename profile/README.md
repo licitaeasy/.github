@@ -17,7 +17,7 @@
 
 [![Backend Dev CI/CD](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-dev.yml/badge.svg)](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-dev.yml)
 
-[![Frontend Dev CI/CD](https://github.com/licitaeasy/landing-page/actions/workflows/deployment-dev.yml/badge.svg)](https://github.com/licitaeasy/landing-page/actions/workflows/deployment-dev.yml)
+[![Landing DEV CI/CD](https://github.com/licitaeasy/landing-page/actions/workflows/deployment-dev.yml/badge.svg)](https://github.com/licitaeasy/landing-page/actions/workflows/deployment-dev.yml)
 
 [![Frontend Dev CI/CD](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev.yml/badge.svg)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev.yml)
 
@@ -26,6 +26,6 @@
 
 [![Backend Prod CI/CD](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-prod.yml)
 
-Pending
+[![Landing PROD CI/CD](https://github.com/licitaeasy/landing-page/actions/workflows/deployment-prod.yml/badge.svg)](https://github.com/licitaeasy/landing-page/actions/workflows/deployment-prod.yml)
 
 [![Frontend Prod CI/CD](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-prod.yml)
