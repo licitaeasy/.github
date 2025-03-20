@@ -15,17 +15,13 @@
 
 ## Development
 
-[![Backend Dev CI/CD](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-dev.yml/badge.svg)](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-dev.yml)
+Backend Dev CI/CD Google
+[![Backend Dev CI/CD Google](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-dev-gcp.yml/badge.svg?branch=main)](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-dev-gcp.yml)
 
-[![Landing DEV CI/CD](https://github.com/licitaeasy/landing-page/actions/workflows/deployment-dev.yml/badge.svg)](https://github.com/licitaeasy/landing-page/actions/workflows/deployment-dev.yml)
-
-[![Frontend Dev CI/CD](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev.yml/badge.svg)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev.yml)
+Frontend Dev CI/CD Google
+[![Frontend Dev CI/CD Google](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev-gcp.yml/badge.svg?branch=main)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev-gcp.yml)
 
 
 ## Production
 
-[![Backend Prod CI/CD](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-prod.yml)
-
-[![Landing PROD CI/CD](https://github.com/licitaeasy/landing-page/actions/workflows/deployment-prod.yml/badge.svg)](https://github.com/licitaeasy/landing-page/actions/workflows/deployment-prod.yml)
-
-[![Frontend Prod CI/CD](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-prod.yml)
+TDA
