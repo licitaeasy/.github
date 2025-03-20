@@ -15,10 +15,8 @@
 
 ## Development
 
-Backend Dev CI/CD Google
 [![Backend Dev CI/CD Google](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-dev-gcp.yml/badge.svg?branch=main)](https://github.com/licitaeasy/webapp-backend/actions/workflows/deploy-dev-gcp.yml)
 
-Frontend Dev CI/CD Google
 [![Frontend Dev CI/CD Google](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev-gcp.yml/badge.svg?branch=main)](https://github.com/licitaeasy/webapp-frontend/actions/workflows/deploy-dev-gcp.yml)
 
 
